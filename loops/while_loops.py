@@ -13,3 +13,4 @@ while True:
     if user_input == "n":
         break
     print("Game is runing")
+    
